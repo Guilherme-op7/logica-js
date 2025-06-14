@@ -46,7 +46,7 @@ Organizei os exercícios de acordo com os módulos passados pelo professor. Cada
 ✅ Entrada e saída de dados no terminal
 
 👨‍🏫 Professor responsável
-Bruno – Professor de Lógica de Programação no Curso Técnico
+Bruno – Professor de  Algoritmos e Programação no Curso Técnico
 --
 💻 Tecnologias utilizadas
 JavaScript
