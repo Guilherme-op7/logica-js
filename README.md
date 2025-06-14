@@ -1,10 +1,11 @@
-##📚 Exercícios de Lógica de Programação - JavaScript##
+📚 Exercícios de Lógica de Programação - JavaScript
 --
 Este repositório reúne todos os meus exercícios de Lógica de Programação, desenvolvidos ao longo do curso técnico com o Professor Bruno. O objetivo é mostrar minha evolução como programador, praticar os conceitos aprendidos em aula e construir um histórico público da minha trajetória nos estudos de programação.
 --
 Aqui estão códigos feitos com JavaScript, executados no terminal usando Node.js. Para a entrada de dados, estou utilizando a biblioteca prompt-sync, que permite uma interação simples com o usuário.
 --
 🎯 Por que criei este repositório?
+--
 Durante o curso, percebi a importância de organizar e compartilhar os exercícios que venho resolvendo. Este repositório serve como:
 
 Um portfólio para futuros processos seletivos
@@ -27,8 +28,9 @@ Organizei os exercícios de acordo com os módulos passados pelo professor. Cada
 📂 logica3 – 
 
 📂 logica3.2 – 
---
+
 🧠 Conteúdos que estou praticando
+--
 ✅ Condicionais (if, else, switch...)
 
 ✅ Laços de repetição (for, while, do while...)
@@ -42,7 +44,7 @@ Organizei os exercícios de acordo com os módulos passados pelo professor. Cada
 ✅ Resolução de problemas lógicos
 
 ✅ Entrada e saída de dados no terminal
---
+
 👨‍🏫 Professor responsável
 Bruno – Professor de Lógica de Programação no Curso Técnico
 --
@@ -52,7 +54,8 @@ JavaScript
 Node.js – Para execução no terminal
 
 prompt-sync – Para entrada de dados via terminal
---
+
 🚀 Próximos passos
+--
 Continuar praticando lógica de programação, iniciar pequenos projetos mais completos e me aprofundar nos próximos passos do curso: Node.js, React.js. Este repositório vai continuar recebendo novos exercícios e projetos ao longo do meu aprendizado.
 
