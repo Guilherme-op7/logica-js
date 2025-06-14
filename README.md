@@ -1,25 +1,36 @@
 📚 Exercícios de Lógica de Programação - JavaScript
+Este repositório reúne todos os meus exercícios de Lógica de Programação, desenvolvidos ao longo do curso técnico com o Professor Bruno. O objetivo é mostrar minha evolução como programador, praticar os conceitos aprendidos em aula e construir um histórico público da minha trajetória nos estudos de programação.
 
-Repositório com meus exercícios de lógica de programação feitos durante o curso técnico com o Professor Bruno. Aqui eu pratico conceitos de lógica utilizando JavaScript, rodando os códigos no terminal com Node.js e a biblioteca prompt-sync para entrada de dados.
+Aqui estão códigos feitos com JavaScript, executados no terminal usando Node.js. Para a entrada de dados, estou utilizando a biblioteca prompt-sync, que permite uma interação simples com o usuário.
 
-🎯 Objetivo:
-Praticar o raciocínio lógico, reforçar os conceitos do curso e me preparar para os próximos módulos como Node.js, React.js e Banco de Dados.
+🎯 Por que criei este repositório?
+Durante o curso, percebi a importância de organizar e compartilhar os exercícios que venho resolvendo. Este repositório serve como:
 
-🗂️ Organização dos exercícios:
+Um portfólio para futuros processos seletivos
 
-📂 logica1
+Um histórico pessoal de aprendizado
 
-📂 logica2
+Uma forma de revisar conteúdos com facilidade
 
-📂 logica3
+Uma maneira de acompanhar minha evolução
 
-📂 logica3.2
+Meu foco é criar uma base sólida em lógica de programação, essencial para os próximos módulos como Node.js, React.js e Banco de Dados.
 
-🧠 O que estou praticando:
+🗂️ Estrutura de Pastas
+Organizei os exercícios de acordo com os módulos passados pelo professor. Cada pasta representa uma etapa do conteúdo estudado:
 
-✅ Condicionais (if, else, switch)
+📂 logica1 – 
 
-✅ Estruturas de repetição (for, while, do while)
+📂 logica2 – 
+
+📂 logica3 – 
+
+📂 logica3.2 – 
+
+🧠 Conteúdos que estou praticando
+✅ Condicionais (if, else, switch...)
+
+✅ Laços de repetição (for, while, do while...)
 
 ✅ Vetores (Arrays)
 
@@ -27,20 +38,20 @@ Praticar o raciocínio lógico, reforçar os conceitos do curso e me preparar pa
 
 ✅ Operações matemáticas básicas
 
-✅ Resolução de problemas com foco em lógica
+✅ Resolução de problemas lógicos
 
-👨‍🏫 Professor responsável:
-Bruno –  Algoritmos e Programação (Curso tecnico)
+✅ Entrada e saída de dados no terminal
 
-💻 Tecnologias utilizadas:
+👨‍🏫 Professor responsável
+Bruno – Professor de Lógica de Programação no Curso Técnico
+
+💻 Tecnologias utilizadas
 JavaScript
-Execução no terminal via Node.js
-Entrada de dados com prompt-sync
 
+Node.js – Para execução no terminal
 
+prompt-sync – Para entrada de dados via terminal
 
-
-
-
-
+🚀 Próximos passos
+Continuar praticando lógica de programação, iniciar pequenos projetos mais completos e me aprofundar nos próximos passos do curso: Node.js, React.js. Este repositório vai continuar recebendo novos exercícios e projetos ao longo do meu aprendizado.
 
