@@ -29,6 +29,14 @@ Organizei os exercícios de acordo com os módulos passados pelo professor. Cada
 
 📂 logica3.2 – 
 
+📂 logica4 – 
+
+📂 logica5 – 
+
+📂 logica6 – 
+
+
+
 🧠 Conteúdos que estou praticando
 --
 ✅ Condicionais (if, else, switch...)
